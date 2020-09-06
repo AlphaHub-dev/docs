@@ -22,5 +22,3 @@ Please follow our step by step guide below.
 
 
 Congratulations, you’ve started with your model.
-
-**Next Step** -> [Adding layers to model](/getting-started/adding-layers-to-model)

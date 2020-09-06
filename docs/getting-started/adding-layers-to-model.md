@@ -14,8 +14,6 @@ There are two ways to add layers to the model:
 
 `Adding layers on the canvas is the first step, you have to connect all the layers yourself. We are working on our engine to show suggested connections on the canvas.`
 
-**Next Step** -> [Understanding Interface](getting-started/understanding-interface.md)
-
 ---
 
 **Related articles**

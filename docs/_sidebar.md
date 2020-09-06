@@ -6,3 +6,6 @@
     * [Understanding Interface](getting-started/understanding-interface.md)
     * [Terminologies](getting-started/terminologies.md)
     * [Analysisng model errors](getting-started/analysing-model-errors.md)
+
+* 👉 Help
+    * [Contact Us](mailto:support@alphahub.dev)
